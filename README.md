@@ -1,2 +1,2 @@
 # library
-my attempt to make a library system code
+my attempt to build a library system code
